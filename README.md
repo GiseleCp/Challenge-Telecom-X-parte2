@@ -119,3 +119,36 @@ Antecipar a evasão de clientes (churn) com modelos de machine learning aplicado
 
 <h2>📁 Estrutura do Projeto</h2>
 
+📂 projeto-churn-telecomx/
+├── data/
+│ └── TelecomX_normalizado.json2
+├── notebooks/
+│ └── churn_modeling.ipynb
+├── README.md
+└── requirements.txt
+
+
+
+---
+
+<h2>👩‍💻 Tecnologias Utilizadas</h2>
+
+<ul>
+  <li>Python 3</li>
+  <li>Pandas, NumPy</li>
+  <li>Scikit-learn</li>
+  <li>XGBoost</li>
+  <li>Matplotlib, Seaborn</li>
+</ul>
+
+---
+
+<h2>🚀 Resultado</h2>
+
+<p>
+Projeto entregue com sucesso, gerando insights estratégicos para a tomada de decisão na área de Customer Success e Marketing da empresa TelecomX.
+</p>
+
+<p align="center"><strong>Missão Concluída ✅</strong></p>
+
+
