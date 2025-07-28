@@ -122,8 +122,10 @@ Antecipar a evasão de clientes (churn) com modelos de machine learning aplicado
 📂 projeto-churn-telecomx/
 ├── data/
 │ └── TelecomX_normalizado.json2
+
 ├── notebooks/
 │ └── churn_modeling.ipynb
+
 ├── README.md
 └── requirements.txt
 
